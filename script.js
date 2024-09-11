@@ -1,2 +1,2 @@
 // just testing 
-alert(`I love Candy`)
+// alert(`I love Candy`)
