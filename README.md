@@ -1,4 +1,5 @@
 # Common Terminal Commands
+[you can watch the video instead, if you like](https://youtu.be/uwAqEzhyjtw?si=FuXy3qmqXmJxQxRu)
 
 ## Key Commands & Navigation
 
