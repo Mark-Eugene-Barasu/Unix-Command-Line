@@ -11,6 +11,9 @@ Before we look at some common commands, I just want to note a few keyboard comma
 - `Ctrl + C`: Will cancel a command
 - `Ctrl + R`: Will search for a command
 - `Ctrl + D`: Will exit the terminal
+- `Ctrl + A`: Will take you to start of line 
+- `Ctrl + E`: Will take you to end of line
+- `Ctrl + U`: Clear current line to the left
 
 ## Manual Command
 
